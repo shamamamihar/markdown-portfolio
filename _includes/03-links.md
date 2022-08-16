@@ -1,1 +1,1 @@
-my github link  https://github.com/shamamamihar
+[GitHub](http://github.com)
